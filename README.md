@@ -27,3 +27,16 @@ This project demonstrates database interaction using Java (JDBC) with a MySQL ba
 1. Install MySQL and create database:
    ```sql
    CREATE DATABASE unbcourse;
+
+
+## 📸 Screenshots
+
+### GUI Application
+![Initial GUI](screenshots/gui-initial.png)
+
+![Successful Withdrawal](screenshots/success-withdrawal.png)
+
+![Error Handling](screenshots/error-case.png)
+
+### CLI Output
+![Class List Output](screenshots/classlist-case1.png)

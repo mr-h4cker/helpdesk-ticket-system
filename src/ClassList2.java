@@ -54,7 +54,7 @@ public class ClassList2
     {
         final String url      = "jdbc:mysql://localhost:3306/unbcourse";
         final String user     = "root";
-        final String password = "9779643311Deep";
+        final String password = "YourPassWord";
 
         Connection connector = null;
         try 

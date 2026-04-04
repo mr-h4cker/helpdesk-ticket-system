@@ -230,7 +230,7 @@ helpdesk-ticket-system/
 │   ├── queries.sql
 │   └── scenarios.md
 ├── docs/
-│   ├── erd.png
+│   ├── Entity-relationshipDiagram.png
 │   └── screenshots/
 ├── src/
 │   ├── Main.java

@@ -224,7 +224,6 @@ Run `Main.java`.
 ```
 helpdesk-ticket-system/
 ├── README.md
-├── .gitignore
 ├── database/
 │   ├── schema.sql
 │   ├── seed.sql
